@@ -1,2 +1,2 @@
-# nodepad
-my first NODE app
+# NodePad
+my NodePad simply allows user to upload a file and view it.
